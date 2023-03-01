@@ -1,3 +1,3 @@
 [submodule "path_to_submodule"] 
-  path = path_to_submodule 
-  url = git:///github.com/aamon40/My_full-stack_portfolio.git
+  path =  ./backend_sanity
+  url = git://github.com/aamon40/My_full-stack_portfolio.git
