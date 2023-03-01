@@ -1,3 +1,0 @@
-[submodule "path_to_submodule"] 
-  path =  ./backend_sanity
-  url = git://github.com/aamon40/My_full-stack_portfolio.git
